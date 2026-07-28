@@ -1,0 +1,116 @@
+# Admin Console & Review Queue Dashboard
+
+### Developed by Rituraj Singh
+
+## Project Overview
+
+This project demonstrates an Admin Console and Review Queue Dashboard using Python and Google Colab. It focuses on recruiter analytics, candidate review management, KPI reporting, and interactive visualizations.
+
+The project performs data loading, data cleaning, analysis, visualization, and report generation using a sample recruiter dataset.
+
+---
+
+## Objectives
+
+- Analyze recruiter performance
+- Monitor review queue status
+- Track candidate application status
+- Generate KPI summary
+- Visualize hiring trends
+- Export cleaned analysis report
+
+---
+
+## Features
+
+- Data Cleaning
+- Missing Value Detection
+- Duplicate Record Removal
+- Recruiter-wise Analysis
+- Company-wise Analysis
+- Candidate Status Analysis
+- Review Queue Analysis
+- Priority Analysis
+- Rating Analysis
+- Experience Analysis
+- KPI Dashboard
+- Excel Report Export
+
+---
+
+## Technologies Used
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- OpenPyXL
+
+---
+
+## Dataset Columns
+
+- Recruiter_ID
+- Recruiter_Name
+- Company
+- Job_Title
+- Candidate_Name
+- Candidate_ID
+- Experience
+- Skills
+- Status
+- Review_Status
+- Rating
+- Applied_Date
+- Review_Date
+- Priority
+- Location
+
+---
+
+## Project Workflow
+
+1. Import Libraries
+2. Load Excel Dataset
+3. Data Cleaning
+4. Exploratory Data Analysis
+5. Recruiter Performance Analysis
+6. Review Queue Monitoring
+7. KPI Dashboard Generation
+8. Data Visualization
+9. Export Final Excel Report
+
+---
+
+## Visualizations Included
+
+- Candidate Status Bar Chart
+- Review Queue Pie Chart
+- Company-wise Hiring Chart
+- Top Recruiters Chart
+- Priority Distribution Chart
+- Job Title Distribution Chart
+- Average Recruiter Rating Chart
+- Experience Distribution Histogram
+
+---
+
+## Output
+
+- KPI Dashboard Summary
+- Recruiter Performance Report
+- Company Analysis
+- Charts and Graphs
+- Cleaned Excel Report
+
+---
+
+## Project Structure
+
+
+Admin_Console_Review_Queue_Dashboard.ipynb
+Sample Dataset.xlsx
+Recruiter_Analysis_Report.xlsx
+README
+requirements
